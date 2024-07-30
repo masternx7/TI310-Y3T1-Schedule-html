@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+.txtProject {
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	font-weight: 200;
+	text-align: center;
+	letter-spacing: 1.2px;
+	color: #000000;
+}
+.txtDay {
+	font-family: 'Raleway', sans-serif;
+	text-align: center
+	}
+.txtDayWhite {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	color: white;
+	}
+.txtTime {
+	font-family: 'Raleway', sans-serif;
+}
+.txtTimeWhite {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
